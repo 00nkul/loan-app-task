@@ -1,0 +1,233 @@
+[
+    {
+        "accNum": "123",
+        "balance-sheet": [
+            {
+                "year": 2020,
+                "month": 1,
+                "profitOrLoss": 3200,
+                "assetsValue": 11567
+            },
+            {
+                "year": 2020,
+                "month": 2,
+                "profitOrLoss": -1500,
+                "assetsValue": 6543
+            },
+            {
+                "year": 2020,
+                "month": 3,
+                "profitOrLoss": 4200,
+                "assetsValue": 23234
+            },
+            {
+                "year": 2020,
+                "month": 4,
+                "profitOrLoss": -3200,
+                "assetsValue": 9887
+            },
+            {
+                "year": 2020,
+                "month": 5,
+                "profitOrLoss": 2500,
+                "assetsValue": 17456
+            },
+            {
+                "year": 2020,
+                "month": 6,
+                "profitOrLoss": -900,
+                "assetsValue": 8743
+            },
+            {
+                "year": 2020,
+                "month": 7,
+                "profitOrLoss": 1800,
+                "assetsValue": 32456
+            },
+            {
+                "year": 2020,
+                "month": 8,
+                "profitOrLoss": -2700,
+                "assetsValue": 11567
+            },
+            {
+                "year": 2020,
+                "month": 9,
+                "profitOrLoss": -187000,
+                "assetsValue": 223452
+            },
+            {
+                "year": 2020,
+                "month": 10,
+                "profitOrLoss": 2500,
+                "assetsValue": 22345
+            },
+            {
+                "year": 2020,
+                "month": 11,
+                "profitOrLoss": 1150,
+                "assetsValue": 5789
+            },
+            {
+                "year": 2020,
+                "month": 12,
+                "profitOrLoss": 250000,
+                "assetsValue": 1234
+            }
+        ]
+    },
+    {
+        "accNum": "456",
+        "balance-sheet": [
+            {
+                "year": 2020,
+                "month": 1,
+                "profitOrLoss": 750,
+                "assetsValue": 3456
+            },
+            {
+                "year": 2020,
+                "month": 2,
+                "profitOrLoss": -3200,
+                "assetsValue": 9876
+            },
+            {
+                "year": 2020,
+                "month": 3,
+                "profitOrLoss": 4200,
+                "assetsValue": 23456
+            },
+            {
+                "year": 2020,
+                "month": 4,
+                "profitOrLoss": -3200,
+                "assetsValue": 9887
+            },
+            {
+                "year": 2020,
+                "month": 5,
+                "profitOrLoss": 2500,
+                "assetsValue": 17456
+            },
+            {
+                "year": 2020,
+                "month": 6,
+                "profitOrLoss": -900,
+                "assetsValue": 8743
+            },
+            {
+                "year": 2020,
+                "month": 7,
+                "profitOrLoss": 1800,
+                "assetsValue": 32456
+            },
+            {
+                "year": 2020,
+                "month": 8,
+                "profitOrLoss": -2700,
+                "assetsValue": 11567
+            },
+            {
+                "year": 2020,
+                "month": 9,
+                "profitOrLoss": -187000,
+                "assetsValue": 223452
+            },
+            {
+                "year": 2020,
+                "month": 10,
+                "profitOrLoss": 2500,
+                "assetsValue": 22345
+            },
+            {
+                "year": 2020,
+                "month": 11,
+                "profitOrLoss": 1150,
+                "assetsValue": 5789
+            },
+            {
+                "year": 2020,
+                "month": 12,
+                "profitOrLoss": 250000,
+                "assetsValue": 1234
+            }
+        ]
+    },
+    {
+        "accNum": "789",
+        "balance-sheet": [
+            {
+                "year": 2020,
+                "month": 1,
+                "profitOrLoss": 5200,
+                "assetsValue": 14567
+            },
+            {
+                "year": 2020,
+                "month": 2,
+                "profitOrLoss": -2500,
+                "assetsValue": 7567
+            },
+            {
+                "year": 2020,
+                "month": 3,
+                "profitOrLoss": 6200,
+                "assetsValue": 29456
+            },
+            {
+                "year": 2020,
+                "month": 4,
+                "profitOrLoss": -4500,
+                "assetsValue": 11876
+            },
+            {
+                "year": 2020,
+                "month": 5,
+                "profitOrLoss": 3500,
+                "assetsValue": 20987
+            },
+            {
+                "year": 2020,
+                "month": 6,
+                "profitOrLoss": -1500,
+                "assetsValue": 8743
+            },
+            {
+                "year": 2020,
+                "month": 7,
+                "profitOrLoss": 2700,
+                "assetsValue": 39876
+            },
+            {
+                "year": 2020,
+                "month": 8,
+                "profitOrLoss": -3200,
+                "assetsValue": 11567
+            },
+            {
+                "year": 2020,
+                "month": 9,
+                "profitOrLoss": -187000,
+                "assetsValue": 223452
+            },
+            {
+                "year": 2020,
+                "month": 10,
+                "profitOrLoss": 2500,
+                "assetsValue": 22345
+            },
+            {
+                "year": 2020,
+                "month": 11,
+                "profitOrLoss": 1150,
+                "assetsValue": 5789
+            },
+            {
+                "year": 2020,
+                "month": 12,
+                "profitOrLoss": 250000,
+                "assetsValue": 1234
+            }
+        ]
+    }
+]

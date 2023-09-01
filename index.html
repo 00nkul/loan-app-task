@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="./style.css">
+<body>
+    <h1>Loan App</h1>
+
+    <!-- buisness details form -->
+
+    <form id="my-form-id">
+        <label for="name">Buisness Name</label>
+        <input type="text" name="name" id="name" placeholder="Enter your name" required>
+        <br>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="Enter your email" required>
+        <br>
+        <label for="amount">Amount</label>
+        <input type="number" name="amount" id="amount" placeholder="Enter your amount" required min="0">
+        <br>
+        <label for="YOE">Years of Established</label>
+        <input type="number" name="YOE" id="YOE" placeholder="Enter your years of established" required min="1800" max="2100">
+        <br>
+        <label for="accountnumber">Account Number</label>
+        <input type="number" name="accountnumber" id="accountnumber" placeholder="Enter your account number" required>
+        <br>
+        <label for="accounting-provider">Accounting Provider</label>
+        <select name="accounting-provider" id="accounting-provider" required>
+            <option value="quickbooks">Quickbooks</option>
+            <option value="xero">Xero</option>
+            <option value="sage">Sage</option>
+        </select>
+        <br>
+        <input type="submit" class="btn" value="Get Balance Sheet">
+        <br>
+        <input id="submit-btn" class="btn" disabled type="button" value="Submit Application">
+    </form>
+
+    <table id="balance-sheet"></table>
+    <div id="assesment-details"></div>
+    <div id="progress" ></div>
+    <!-- script tag -->
+    <script src="script.js"></script>
+</body>
+
+</html>
